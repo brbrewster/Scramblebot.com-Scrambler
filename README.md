@@ -8,3 +8,4 @@ If you just want to use it as a Ceasar cyper app, download the ScramblebotCeasea
 
 ScramblebotCeasarCypher.jar is a runnable jar, and should work on most systems that have a recent version of Java installed. 
 
+ 
